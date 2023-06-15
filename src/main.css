@@ -1,0 +1,16 @@
+.main {
+    text-align: center;
+}
+
+.item {
+    margin-top: 50px;
+}
+
+li {
+    list-style: none;
+    margin-top: 34px;
+}
+
+span {
+    margin-right: 10px;
+}
